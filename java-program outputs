@@ -1,0 +1,25 @@
+java -cp /tmp/SjLXgxe8nP/task1
+Enter the two integers:
+10
+20
+Enter the floating point number:
+5.5
+Enter a single character:
+v
+Single char:v
+Enter the boolean value:
+true
+Enter the name :
+VISHNU
+Enter the integers:
+10
+20
+Sum of X and Y is: 30
+Sub of X and Y is: -10
+Mul of X and Y is: 200
+floating point number multiplied by 2 is:11.0
+Next character in the ASCII sequence after the entered character is:w
+Opposite value is:false
+Hello,VISHNU
+
+=== Code Execution Successful ===
